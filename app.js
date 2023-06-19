@@ -56,6 +56,8 @@ $(() => {
           $("ul").append(`<li id="bb">butter beer</li>`)
           $("#container").append("<ul>")
           $("li").remove("#bb")
+          $(".secret").hide('slow').delay(2000)
+          $(".secret").show("slow")
 
           console.log($("ul"))
           

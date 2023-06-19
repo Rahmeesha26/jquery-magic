@@ -28,3 +28,7 @@ table {
           overflow-x: auto;
           border-spacing: 0;
 }
+
+.cabbage {
+          color: chartreuse;
+}
