@@ -1,3 +1,9 @@
 body {
           background-color: #428ae9;
+          text-align: center;
 }
+
+.pettype {
+          font-family: fantasy;
+}
+
