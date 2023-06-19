@@ -14,3 +14,17 @@ body {
 ul {
           list-style: none;
 }
+
+table, th, td {
+          border: gray 1px solid;
+}
+
+table {
+          
+          width: 100%;
+          max-width: 400px;
+          height: 240px;
+          margin: 0 auto;
+          overflow-x: auto;
+          border-spacing: 0;
+}
