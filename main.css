@@ -1,7 +1,12 @@
-body {
-          background-color: #428ae9;
-          text-align: center;
-}
+@media screen and (min-width: 1000px) {
+          body {
+                    background-image: url(harry-potter-pottermore-explore-hogwarts--wallpaper.jpg);
+                    width: 100%;
+                    height: 100%;
+                    background-color: #428ae9;
+                    text-align: center;
+          }
+} 
 
 .cat {
           font-family: fantasy;

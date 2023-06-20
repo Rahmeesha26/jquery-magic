@@ -58,6 +58,7 @@ $(() => {
           $("li").remove("#bb")
           $(".secret").hide('slow').delay(2000)
           $(".secret").show("slow")
+          $("ul").prepend(`<li>Butter beer</li>`)
 
           console.log($("ul"))
           
